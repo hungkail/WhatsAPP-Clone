@@ -8,6 +8,7 @@
   justify-content: space-between;
   padding: 20px;
   border-right: 1px solid lightgray;
+  flex: 0.1;
 }
 
 .sidebar__headerRight {

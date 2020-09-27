@@ -1,0 +1,9 @@
+.message {
+  padding-left: 20px;
+}
+.message__content {
+  background-color: white;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+}
