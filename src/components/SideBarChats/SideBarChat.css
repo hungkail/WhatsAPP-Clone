@@ -1,0 +1,10 @@
+.SideBarChat {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding-left: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.SideBarChat__Message {
+  padding: 10px;
+}
